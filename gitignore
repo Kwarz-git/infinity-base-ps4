@@ -1,0 +1,7 @@
+build/
+*.prx
+*.elf
+*.oelf
+source/lib.h
+source/web.h
+bins/
